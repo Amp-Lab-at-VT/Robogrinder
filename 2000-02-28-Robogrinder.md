@@ -4,7 +4,7 @@ title: Robogrinder
 description: RoboMaster is an annual robotics competition for teams of aspiring engineers to design and build next-generation robots for completing difficult tasks and hand-to-hand combat.
 date: 2000-02-28 09:00:00
 hero_image: /web/img/Robogrinder/Hero.png
-image: /web/img/Robogrinder/Hero.png
+# image /web/img/Robogrinder/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
