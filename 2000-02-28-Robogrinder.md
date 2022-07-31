@@ -19,7 +19,7 @@ show_sidebar: false
 Many!
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Robogrinder"" >Robogrinder</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Robogrinder" >Robogrinder</a>
 
 ## Photo
 
